@@ -1,7 +1,8 @@
 {
   "name": "nubank-interface",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {},
+    "cordova": {}
   },
   "type": "angular"
 }
